@@ -4,6 +4,12 @@ here database connection react with php
 ![Screenshot (678)](https://user-images.githubusercontent.com/94070396/207156311-58a7a51d-36d0-4a6a-bb13-2df1027ac3df.png)
 ![Screenshot (679)](https://user-images.githubusercontent.com/94070396/207156383-06ae074b-ae4f-4d02-a130-276b7eb99aa1.png)
 
+ER Diagram 
+![er dia](https://user-images.githubusercontent.com/94070396/207249290-25f641a5-5860-4ba4-87f3-6219f4fc2985.jpg)
+
+Use case Diagram
+![use case](https://user-images.githubusercontent.com/94070396/207249318-6c2ac841-cdc4-456d-afb3-9fc4bfcae428.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
